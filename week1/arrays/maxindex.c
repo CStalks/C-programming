@@ -15,7 +15,7 @@ int main(void){
     return 0;
 }
 
-//return the largest value of the array 
+//return the index of the largest value in array 
 int maxIndex(int * arr, int size){
     int maxIndex = 0;
     int maxVal = 0;
