@@ -20,8 +20,6 @@ int main() {
     printArrCpy(target2DArr[1], ROW);
     printArrCpy(target2DArr[2], ROW);
 
-
-
     return 0;
 }
 
